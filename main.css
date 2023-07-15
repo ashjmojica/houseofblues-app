@@ -68,6 +68,17 @@ body {
 }
 .concert-location {
   color: #888888;
-    text-decoration: underline;
-    
+    text-decoration: underline; 
+}
+.header {
+  padding: 15px;
+}
+.content-section {
+  padding: 15px;
+  width: 450px;
+}
+.album {
+  border: 2px dashed;
+  padding: 10px 5px 10px 5px;
+  margin-bottom: 5px;
 }
